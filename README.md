@@ -5,7 +5,7 @@ This is a package of box pile prefabs for Unity Engine. You may use them as back
 >This package does not come with 3D models to replace the primitive cubes - you must download or create these on your own. Links to third party 3D models have been provided in the assets folder.
 
 # Instructions
-Download the assets folder in this repository, then import the contents into your Unity 3D project. Open up the demo scene to view all the prefabs, then try replacing the primitive cubes with another 3D object.
+Download the **BoxPilePrefabs** folder in this repository and import it into your Unity 3D project. Open up the demo scene to view all the prefabs, then try replacing the primitive cubes with another 3D object.
 
 # Replacing a Box Pile
 ![Box Pile](https://user-images.githubusercontent.com/46628480/102311824-2b767e80-3f33-11eb-8ec0-6c1d586f4ad1.png)
